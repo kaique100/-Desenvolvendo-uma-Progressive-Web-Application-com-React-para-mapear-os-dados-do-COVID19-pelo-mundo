@@ -1,0 +1,15 @@
+.carousel-wrapper img{   
+    width: 100%;
+}
+.thumbs {
+    display: none;
+}
+.carousel .carousel-status {
+    display: none;
+}
+
+@media screen and (max-width:300px){
+    .carousel-wrapper img{       
+        width: 100%;
+    }
+}
